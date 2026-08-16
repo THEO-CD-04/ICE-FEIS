@@ -11,15 +11,15 @@ Analisar parâmetros de desempenho e eficiência térmica de motores de combust�
 
 ## Como executar
 1. Clone este repositório:
-   `git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git`
+   `git clone https://github.com/THEO-CD-04/ICE-FEIS.git`
 2. Instale as dependências:
-   `pip install -r requirements.txt` (se houver)
+   `pip install -r requirements.txt`
 3. Execute o script principal:
-   `python simulação_otto.py`
+   `ICcodeMK9.py`
 
 ## Autor
-**Théo** - Graduação em Engenharia Mecânica  
-[Link para o seu Lattes ou LinkedIn]
+**Théo Coelho Dias** - Graduação em Engenharia Mecânica  
+http://lattes.cnpq.br/8642821121203035
 
 ## Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
