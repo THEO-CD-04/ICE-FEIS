@@ -7,7 +7,7 @@ Analisar parâmetros de desempenho e eficiência térmica de motores de combust�
 
 ## Tecnologias Utilizadas
 * Python 3.x
-* Bibliotecas: `numpy`, `matplotlib`, `scipy`,  `pandas`
+* Bibliotecas: `numpy`, `matplotlib`, `scipy`,  `pandas`, `CoolProp`
 
 ## Como executar
 1. Clone este repositório:
